@@ -7,6 +7,12 @@ We're building the future of Web3 commerce and tokengating solutions. Our missio
 1. [Marketplace](https://github.com/OfflineHQ/marketplace) - Our core platform and API codebase for Web3-enabled e-commerce.
 2. [Unlock](https://github.com/OfflineHQ/shopify-unlock) - A Shopify app for no-code and white-label integration of offline tokengating.
 
+## 🎥 See Offline in Action
+
+### User Experience: Passkey Sign-In and Exclusive Perks
+
+### Merchant Dashboard: Customizing Passkey Sign-In and Managing Campaigns
+
 ## 🏗️ Tech Architecture Overview
 
 [![Tech Architecture Overview](https://github.com/user-attachments/assets/db22f03e-b1e4-4eb9-bf39-52c6d0e050df)](https://lucid.app/documents/embedded/e4944a4b-41af-47ed-a4ff-1c4e5f2b7528?invitationId=inv_54639997-dead-44bf-a378-f4473e74e48c#)
