@@ -9,11 +9,15 @@ We're building the future of Web3 commerce and tokengating solutions. Our missio
 
 ## 🏗️ Tech Architecture Overview
 
-<div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://lucid.app/documents/embedded/e4944a4b-41af-47ed-a4ff-1c4e5f2b7528" id="NUL~I_j9L-JM"></iframe></div>
+[![Tech Architecture Overview](https://your-image-url-for-tech-architecture.png)](https://lucid.app/documents/view/e4944a4b-41af-47ed-a4ff-1c4e5f2b7528)
+
+Click the image above to view our interactive Tech Architecture diagram.
 
 ## 🗺️ Project Roadmap
 
-<div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://lucid.app/documents/embedded/160cef11-5208-4ba5-a611-659f81f13e02" id="j4L~rB8lZAL4"></iframe></div>
+[![Project Roadmap](https://your-image-url-for-project-roadmap.png)](https://lucid.app/documents/view/160cef11-5208-4ba5-a611-659f81f13e02)
+
+Click the image above to explore our interactive Project Roadmap.
 
 ## 🤝 Contributing
 
