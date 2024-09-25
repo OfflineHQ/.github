@@ -2,6 +2,9 @@
 
 We're building the future of Web3 commerce and tokengating solutions. Our mission is to bridge the gap between traditional e-commerce and blockchain technology, making it accessible and seamless for businesses of all sizes.
 
+> [!IMPORTANT]  
+> Offline development has been stopped on july 2024 and the project is no longer maintained.
+
 ## 🚀 Our Projects
 
 1. [Marketplace](https://github.com/OfflineHQ/marketplace) - Our core platform and API codebase for Web3-enabled e-commerce.
@@ -11,11 +14,14 @@ We're building the future of Web3 commerce and tokengating solutions. Our missio
 
 ### User Experience: Passkey Sign-In and Exclusive Perks
 
-https://github.com/user-attachments/assets/83d3455a-bfbe-4096-b7e6-bd4f2862fb00
+> [!NOTE]  
+> The creation of passkeys on Cross-Origin Iframe (as it's the case here) is not yet supported on iOS. It should be available on future versions as it's on the specs of the WebAuthn standard Level 3. For more information, see [this article](https://www.corbado.com/blog/iframe-passkeys-webauthn#32-create-passkeys-in-cross-origin-iframes).
+
+<https://github.com/user-attachments/assets/83d3455a-bfbe-4096-b7e6-bd4f2862fb00>
 
 ### Merchant Dashboard: Customizing Passkey Sign-In and Managing Campaigns
 
-https://github.com/user-attachments/assets/901bf43d-83e0-4fba-8931-5196c01c8543
+<https://github.com/user-attachments/assets/901bf43d-83e0-4fba-8931-5196c01c8543>
 
 ## 🏗️ Tech Architecture Overview
 
@@ -29,25 +35,11 @@ Click the image above to view our interactive Tech Architecture diagram.
 
 Click the image above to explore our interactive Project Roadmap.
 
-## 🤝 Contributing
-
-We welcome contributions from the community! If you're interested in helping build the future of Web3 commerce, please check out our [Contribution Guidelines](CONTRIBUTING.md) to get started.
-
 ## 📚 Documentation
-
-For detailed information about our projects, API references, and integration guides, please visit our [Documentation](https://docs.offlinehq.com).
-
-## 💬 Community
-
-Join our community to stay updated, ask questions, and connect with other developers:
-
-- [Discord](https://discord.gg/offlinehq)
-- [Twitter](https://twitter.com/OfflineHQ)
-- [Blog](https://blog.offlinehq.com)
 
 ## 📄 License
 
-Our projects are open-source and released under the [MIT License](LICENSE).
+Our projects are open-source and released under the [GPLv3](LICENSE) license.
 
 ---
 
