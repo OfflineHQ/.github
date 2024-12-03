@@ -10,6 +10,12 @@ We're building the future of Web3 commerce and tokengating solutions. Our missio
 1. [Marketplace](https://github.com/OfflineHQ/marketplace) - Our core platform and API codebase for Web3-enabled e-commerce.
 2. [Unlock](https://github.com/OfflineHQ/shopify-unlock) - A Shopify app for no-code and white-label integration of offline tokengating.
 
+## 📈 Pitch Deck
+
+Discover the vision and journey behind Offline Unlock through our detailed pitch deck.
+
+[![View Pitch Deck](https://img.shields.io/badge/View_Pitch_Deck-Click_Here-blue)](https://www.canva.com/design/DAGI90JcDQA/O_y__9JnJ1i4PP-IKgD-xA/view?utm_content=DAGI90JcDQA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 ## 🎥 See Offline in Action
 
 ### User Experience: Passkey Sign-In and Exclusive Perks
