@@ -12,7 +12,7 @@ We're building the future of Web3 commerce and tokengating solutions. Our missio
 
 ## 📈 Pitch Deck
 
-Offline is a no-code platform that automates personalized perks and rewards for customers, integrating seamlessly with CRM and e-shops. Leveraging blockchain, it eliminates friction in traditional loyalty programs, boosting conversion, engagement, and retention while optimizing campaign ROI. The solution embeds perks directly into the purchase flow, reducing manual inputs and improving user experience. Targeting e-commerce brands, Offline offers a SaaS model with scalable integrations. The startup aims to reshape digital rewards, enhancing brand-customer relationships while ensuring secure, frictionless transactions.
+Offline is a no-code platform that automates personalized perks and rewards for customers, integrating seamlessly with CRM and e-shops. Leveraging blockchain, it eliminates friction in traditional loyalty programs, boosting conversion, engagement, and retention while optimizing campaign ROI. The solution embeds perks directly into the purchase flow, reducing manual inputs and improving user experience. Targeting e-commerce brands, Offline offers a SaaS model with scalable integrations. We aims to reshape digital rewards, enhancing brand-customer relationships while ensuring secure, frictionless transactions.
 
 Discover the vision and journey behind Offline Unlock through our detailed pitch deck.
 
